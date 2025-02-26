@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ann-mso
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sayan 
 ===============================================================================================================================
 
 IT specialist
@@ -7,7 +7,7 @@ IT specialist
 I have a passion in coding. I use HTML, C++, Java script and python started learning coding since 2025
 
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [hannahmuthonikahiga@gmail.com](mailto:hannahmuthonikahiga@gmail.com)
+* ✉️  You can contact me at [sayaneezy254@gmail.com](mailto: sayaneezy254@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on projects
 * ⚡  I am in sonic mode
@@ -22,7 +22,7 @@ I have a passion in coding. I use HTML, C++, Java script and python started lear
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ann-mso" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/swaynel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="35" height="35" /> </picture> </a></p>
 
 ### Badges
 
@@ -30,4 +30,4 @@ I have a passion in coding. I use HTML, C++, Java script and python started lear
 
 <a href="http://www.github.com/ann-mso"><img src="https://github-readme-stats.vercel.app/api?username=ann-mso&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ann-mso's GitHub stats" /></a>
 
-<a href="https://github.com/ann-mso" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ann-mso&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/swaynel" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaynel&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
